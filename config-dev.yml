@@ -1,5 +1,3 @@
 spring:
-  application:
-    name: springcloud-config-dev
-  profiles:
-    active: dev
+  name: springcloud-config-dev
+  
